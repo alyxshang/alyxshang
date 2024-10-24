@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://alyxshang.boo/spark-cdn/images/site/banner/banner.png"/>
+ <img src="https://alyxshang.boo/spark-cdn/images/site/banner/banner02.png"/>
 </p>
 
 # Hello there! :black_heart:
