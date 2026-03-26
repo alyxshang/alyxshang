@@ -8,7 +8,5 @@
 - *To other GitHub users: If you would like to know more about the projects I am working on, you can view these at the link mentioned previously. Suggestions for possible collaborations and contributions will only be accepted via email.*
 - *To FOSS contributors: If you post any of my code and plan to modify it, you are free to do so if you mark that project as a fork of one of my projects and you do not violate any of the [license's terms](https://source.alyxshang.boo/alyxshang/fair-software-license). The license's term shall not be violated.*
 
-*Harassment, defamation, or malicious conduct will not be tolerated and may be addressed through appropriate channels.*
-
 *Yours sincerely,</br>*
 *Alyx*
