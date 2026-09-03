@@ -10,7 +10,7 @@ This GitHub account hosts all of my past and present open-source projects in a v
 Among these languages are: Lua, Rust, and Zig. The projects hosted here have all been programmed without the use of any kind of AI. 
 Modifying or analyzing any of my projects using large language models is strictly prohibited. Violating this rule will have legal consequences.
 
-***Sincerely,***
+***Sincerely,<br/>***
 ***\- Alyx***
 
 <p align="center">
