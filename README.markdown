@@ -11,7 +11,7 @@ Among these languages are: Lua, Rust, and Zig. The projects hosted here have all
 Modifying or analyzing any of my projects using large language models is strictly prohibited. Violating this rule will have legal consequences.
 
 ***Sincerely,<br/>***
-***\- Alyx***
+***Alyx***
 
 <p align="center">
   <img src="divider_bottom.png" width="40%;"/>
