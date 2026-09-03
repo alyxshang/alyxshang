@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="divider_top.png" width="40%;"/>
+  <img src="divider_top.png" width="75%;"/>
 </p>
 
 # GREETINGS!
@@ -14,5 +14,5 @@ Modifying or analyzing any of my projects using large language models is strictl
 ***Alyx***
 
 <p align="center">
-  <img src="divider_bottom.png" width="40%;"/>
+  <img src="divider_bottom.png" width="75%;"/>
 </p>
