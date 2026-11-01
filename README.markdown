@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="divider_top.png" width="75%;"/>
-</p>
-
 # GREETINGS!
 
 You have reached my official GitHub profile. 
@@ -11,7 +7,3 @@ Among these languages are: Lua, Rust, and Zig. The projects hosted here have all
 
 ***Sincerely,<br/>***
 ***Alyx***
-
-<p align="center">
-  <img src="divider_bottom.png" width="75%;"/>
-</p>
